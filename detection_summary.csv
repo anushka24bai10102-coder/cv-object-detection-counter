@@ -1,0 +1,6 @@
+object,count,average_confidence
+bus,7,0.35
+car,1,0.9105
+motorcycle,1,0.2821
+person,28,0.4633
+truck,1,0.3535
